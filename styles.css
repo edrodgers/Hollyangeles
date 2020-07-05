@@ -373,7 +373,7 @@ main {
 }
 
 img.left-img {
-  width: 80vw;
+  max-width: 100%;
   margin: 0 auto;
 }
 

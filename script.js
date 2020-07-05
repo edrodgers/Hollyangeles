@@ -9,7 +9,6 @@ document.querySelector(".btn").onclick = function () {
   } else {
     this.classList.toggle("change");
   }
-  // $(this).toggleClass("change").toggleClass("not-active");
   document.querySelector("nav").classList.toggle("nav-open");
 };
 
